@@ -1,0 +1,11 @@
+const GET_TODOS = 'GET_TODOS';
+const UPDATE_TODO_TEXT = 'UPDATE_TODO_TEXT';
+const ADD_TODO = 'ADD_TODO';
+const DELETE_TODO = 'DELETE_TODO';
+
+export {
+    GET_TODOS,
+    UPDATE_TODO_TEXT,
+    ADD_TODO,
+    DELETE_TODO
+}
